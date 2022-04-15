@@ -20,6 +20,6 @@ int main()
 {
     one ob1;
     ob1.input();
-    cout << "Sum of two numbers: " << sumoftwo(ob1);
+    cout << "Sum of the two numbers: " << sumoftwo(ob1);
     return 0;
 }
